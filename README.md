@@ -314,4 +314,4 @@ build: {
 
   中 assetsPublicPath: '../',根据生成的dist目录来修改assetsPublicPath的配置路径；
   以上只是个人的一些修改，因为对webpack只有一个初步的了解，此处这样修改后续是否会出现错误尚不得知，仍在测试实验中，同时开始对webpack的详细学习尽快认识和发现webpack中各种配置的作用。
-  123
+  1234
