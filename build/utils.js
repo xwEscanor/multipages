@@ -8,7 +8,7 @@ const packageConfig = require('../package.json')
 
 // 多页面应用修改配置--开始
 const glob = require('glob')
-const PAGE_PATH = path.resolve(__dirname, '../src/mypages')
+const PAGE_PATH = path.resolve(__dirname, '../src/pages')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 // 多页面应用修改配置--结束
 
